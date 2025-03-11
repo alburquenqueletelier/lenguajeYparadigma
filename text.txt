@@ -1,0 +1,9 @@
+# CPU
+Central process unit -> ejecuta procesos de distintas entidades
+Memoria RAM -> memoria de trabajo
+Cache -> memoria temporal 
+multiprocesamiento -> 
+memoria virtual -> 
+over clocking -> llevar una máquina más allá de su capacidad para ver sus defectos
+BIOS -> basic input output system: es un firmware que controla el hardware
+diferencia entre 32 y 64 bit => son canales. 
